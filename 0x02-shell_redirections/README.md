@@ -1,1 +1,2 @@
-commands for shell redirection
+#!/bin/bash
+shell, I/O Redirection
